@@ -1,5 +1,6 @@
 - :house: [robotverseny.github.io](https://robotverseny.github.io/) - Kezdőoldal
 - :trophy: [robotverseny.github.io/#eredmenyek](https://robotverseny.github.io/#eredmenyek) - Eredmények
+- 🏛  [felveteli.sze.hu/robotverseny](https://felveteli.sze.hu/robotverseny) - Egyetemi oldal
 - :loudspeaker: [github.com/robotverseny/robotverseny/discussions](https://github.com/robotverseny/robotverseny/discussions) - Kérdések / válaszok és hírek
-- :robot: [github.com/robotverseny/racecar_gazebo](https://github.com/robotverseny/racecar_gazebo) - Gazebo szimulátor
-- :robot: [github.com/robotverseny/megoldas](https://github.com/robotverseny/megoldas) - Megoldás template: egy működő megoldás, amit minden csapat megkap és továbbfejleszt
+- :robot: [robotverseny.github.io/megoldas](https://robotverseny.github.io/megoldas/) - Megoldás template az online fordulóhoz: egy működő megoldás, amit minden csapat megkap és továbbfejleszt
+- :robot: [robotverseny.github.io/megoldas_zala23](https://robotverseny.github.io/megoldas_zala23/) - Megoldás template a helyszíni fordulóhoz: egy működő megoldás, amit minden csapat megkap és továbbfejleszt
